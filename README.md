@@ -1,4 +1,4 @@
-# ReverseMemory2.0
+# ReverseMemory1.0
 A reverse memory game where the user clicks the colors displayed in opposite order to earn points
 
 https://justinstach21.github.io/ReverseMemoryV1.0/
